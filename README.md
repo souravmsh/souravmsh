@@ -46,7 +46,7 @@ I'm a passionate **Backend Developer** with a love for building scalable and eff
 
 ---
 
-## 📊 StackOverflow & GitHub Stats
+## 📊 Stack Overflow & GitHub Stats
 
 <table>
   <tr>
@@ -70,19 +70,21 @@ I'm a passionate **Backend Developer** with a love for building scalable and eff
 
 ---
 
-## 📄 Summary
+## 📄 GitHub Profile Summary
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souravmsh&theme=swift" alt="GitHub Profile Summary"/>
+
+---
+
+## 🔝 Top Languages
 
 <table>
   <tr>
-    <th>📄 GitHub Profile Summary </th>
-    <th>🔝 Most Used Languages</th>
-  </tr>
-  <tr>
-    <td width="70%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souravmsh&theme=swift" alt="GitHub Profile Summary"/>
-    </td>
-    <td width="30%">
+    <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravmsh&langs_count=8&layout=compact&theme=swift&hide_border=true&title_color=409ba5&icon_color=F8D866" alt="Most Used Languages"/>
+    </td>
+    <td width="50%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=souravmsh&theme=swift" alt="Languages By a Repo"/>
     </td>
   </tr>
 </table>
@@ -90,9 +92,8 @@ I'm a passionate **Backend Developer** with a love for building scalable and eff
 ---
 
 ## 🏆 GitHub Trophies
-
+ 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=souravmsh&theme=swift&no-frame=true&no-bg=true)
-
 
 ---
 
