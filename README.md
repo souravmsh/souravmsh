@@ -53,11 +53,11 @@ I'm a passionate **Backend Developer** with a love for building scalable and eff
     <td width="20%">
       <img src="https://github-readme-stackoverflow.vercel.app/?userID=6877732" />
     </td>
-    <td width="38%">
-      <img src="https://github-readme-stats.vercel.app/api?username=souravmsh&show_icons=true&hide_border=true&theme=radical" />
+    <td width="40%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=souravmsh&theme=default" />
     </td>
-    <td width="38%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=souravmsh&hide_border=true&theme=radical" />
+    <td width="40%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=souravmsh&hide_border=true&theme=default" />
     </td>
   </tr>
 </table>
@@ -79,10 +79,10 @@ I'm a passionate **Backend Developer** with a love for building scalable and eff
   </tr>
   <tr>
     <td width="70%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souravmsh&theme=radical" alt="GitHub Profile Summary"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souravmsh&theme=default" alt="GitHub Profile Summary"/>
     </td>
     <td width="30%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravmsh&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" alt="Most Used Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravmsh&langs_count=8&layout=compact&theme=default&hide_border=true&title_color=409ba5&icon_color=F8D866" alt="Most Used Languages"/>
     </td>
   </tr>
 </table>
@@ -91,7 +91,7 @@ I'm a passionate **Backend Developer** with a love for building scalable and eff
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=souravmsh&theme=radical&no-frame=true&no-bg=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=souravmsh&theme=default&no-frame=true&no-bg=true)
 
 
 ---
