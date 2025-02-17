@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shohrab Hossain</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #ecf0f1;
+      display: flex;
+      height: 100vh;
+    }
+    .window {
+      width: 1024px;
+      margin: auto;
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+      overflow: hidden;
+    }
+    .title-bar {
+      display: flex;
+      align-items: center;
+      padding: 10px;
+      background: #bdc3c7;
+      border-bottom: 1px solid #aaa;
+    }
+    .title-bar .buttons {
+      display: flex;
+      gap: 5px;
+    }
+    .title-bar .buttons span {
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+      display: inline-block;
+    }
+    .close { background: #ff5f57; }
+    .minimize { background: #ffbd2e; }
+    .maximize { background: #28c940; }
+    .title-bar h1 {
+      flex-grow: 1;
+      text-align: center;
+      font-size: 16px;
+      color: #333;
+    }
+    .content {
+      display: flex;
+    }
+    .sidebar {
+      width: 300px;
+      background: #2c3e50;
+      color: white;
+      padding: 20px;
+    }
+    .main-content {
+      flex-grow: 1;
+      padding: 20px;
+      background: white;
+    }
+    .badge {
+      margin: 5px;
+    }
+    .stats {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+    }
+    .profile-views, .activity-graph {
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="window">
+    <div class="title-bar">
+      <div class="buttons">
+        <span class="close"></span>
+        <span class="minimize"></span>
+        <span class="maximize"></span>
+      </div>
+      <h1>Shohrab Hossain</h1>
+    </div>
+    <div class="content">
+      <div class="sidebar">
+        <h3>🌐 Socials</h3>
+        <p>
+          <a href="https://www.linkedin.com/in/souravmsh/">LinkedIn</a><br>
+          <a href="https://fb.com/souravmsh">Facebook</a><br>
+          <a href="https://stackoverflow.com/users/6877732/souravmsh">Stack Overflow</a><br>
+          <a href="https://www.instagram.com/souravmsh/">Instagram</a>
+        </p>
+        <h3>🛠️ Tech Stack</h3>
+        <p>PHP, JavaScript, HTML5, CSS3, Laravel, Vue.js, Bootstrap, React, MySQL</p>
+        <h3>💻 Workspace</h3>
+        <p>Windows, Ubuntu</p>
+      </div>
+      <div class="main-content">
+        <h1>Hey!! Great to see you here! 👋</h1>
+        <p>I'm a passionate <b>Backend Developer</b> with a love for building scalable and efficient systems. I'm always learning new technologies and enjoy collaborating on exciting projects. Let's connect and create something amazing together!</p>
+        <h2>📊 GitHub Stats</h2>
+        <div class="stats">
+          <img src="https://github-readme-stats.vercel.app/api?username=souravmsh&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=souravmsh&hide_border=true&theme=radical" alt="GitHub Streak">
+        </div>
+        <h2>📅 GitHub Contribution Map</h2>
+        <div class="stats">
+          <img src="https://ghchart.rshah.org/souravmsh" alt="GitHub Contribution Map">
+        </div>
+        <div class="profile-views">
+          <img src="https://komarev.com/ghpvc/?username=souravmsh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+        </div>
+        <h2>💬 Let's Connect!</h2>
+        <p>Feel free to reach out if you'd like to collaborate or just chat about tech! 😄</p>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
