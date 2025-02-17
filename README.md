@@ -40,22 +40,9 @@ I'm a passionate **Backend Developer** with a love for building scalable and eff
 ### 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
-
-### 🧑‍💻 Tools & Platforms
-
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=plastic&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=Postman&logoColor=white)
-![Docker](https://img.shields.io/static/v1?style=plastic&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
-![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=plastic&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=plastic&logo=sublime-text&logoColor=important)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=plastic&logo=Canva&logoColor=white)
-
-### 💻 Workspace
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
 
 ---
 
