@@ -46,6 +46,12 @@ I'm a passionate **Backend Developer** with a love for building scalable and eff
 
 ---
 
+## 📄 GitHub Profile Summary
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souravmsh&theme=swift" alt="GitHub Profile Summary"/>
+
+---
+
 ## 📊 Stack Overflow & GitHub Stats
 
 <table>
@@ -61,18 +67,6 @@ I'm a passionate **Backend Developer** with a love for building scalable and eff
     </td>
   </tr>
 </table>
-
----
-
-## 📅 GitHub Contribution Map
-
-![GitHub Contribution Map](https://ghchart.rshah.org/409ba5/souravmsh)
-
----
-
-## 📄 GitHub Profile Summary
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souravmsh&theme=swift" alt="GitHub Profile Summary"/>
 
 ---
 
