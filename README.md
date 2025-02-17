@@ -14,7 +14,7 @@ I'm a passionate **Backend Developer** with a love for building scalable and eff
 [![GitHub Starts](https://img.shields.io/github/stars/souravmsh?label=Stars)](https://www.github.com/souravmsh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souravmsh/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=plastic&logo=Facebook&logoColor=white)](https://fb.com/souravmsh)
-[![Stack Overflow](https://img.shields.io/badge/stack%20overflow-0A0A0A?style=plastic&logo=stackoverflow&logoColor=default)](https://stackoverflow.com/users/6877732/souravmsh)
+[![Stack Overflow](https://img.shields.io/badge/stack%20overflow-0A0A0A?style=plastic&logo=stackoverflow&logoColor=swift)](https://stackoverflow.com/users/6877732/souravmsh)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/souravmsh/)
 
 ---
@@ -54,10 +54,10 @@ I'm a passionate **Backend Developer** with a love for building scalable and eff
       <img src="https://github-readme-stackoverflow.vercel.app/?userID=6877732" />
     </td>
     <td width="40%">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=souravmsh&theme=default" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=souravmsh&theme=swift" />
     </td>
     <td width="40%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=souravmsh&hide_border=true&theme=default" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=souravmsh&hide_border=true&theme=swift" />
     </td>
   </tr>
 </table>
@@ -79,10 +79,10 @@ I'm a passionate **Backend Developer** with a love for building scalable and eff
   </tr>
   <tr>
     <td width="70%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souravmsh&theme=default" alt="GitHub Profile Summary"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souravmsh&theme=swift" alt="GitHub Profile Summary"/>
     </td>
     <td width="30%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravmsh&langs_count=8&layout=compact&theme=default&hide_border=true&title_color=409ba5&icon_color=F8D866" alt="Most Used Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravmsh&langs_count=8&layout=compact&theme=swift&hide_border=true&title_color=409ba5&icon_color=F8D866" alt="Most Used Languages"/>
     </td>
   </tr>
 </table>
@@ -91,7 +91,7 @@ I'm a passionate **Backend Developer** with a love for building scalable and eff
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=souravmsh&theme=default&no-frame=true&no-bg=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=souravmsh&theme=swift&no-frame=true&no-bg=true)
 
 
 ---
