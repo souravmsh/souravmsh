@@ -18,24 +18,29 @@ I'm a passionate **Backend Developer** with a love for building scalable and eff
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white)](https://www.instagram.com/souravmsh/)
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### 🚀 Web Programming & Languages
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
 
 ### 🧩 Libraries & Frameworks
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EE4623?style=plastic&logo=codeigniter&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/VUE.JS-000000?style=plastic&logo=vuedotjs&logoColor=44E192)
-![Nuxt.js](https://img.shields.io/static/v1?style=plastic&message=Nuxt.js&color=222222&logo=Nuxt.js&logoColor=00DC82&label=)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=nextdotjs&logoColor=white)
 ![React.js](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jquery&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=plastic&logo=npm&logoColor=white)
+![Packagist](https://img.shields.io/badge/Packagist-F28D1A?style=plastic&logo=composer&logoColor=white)
 
 ### 🗄️ Databases
 
