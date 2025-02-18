@@ -1,6 +1,6 @@
 # Hey!! Great to see you here!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Electrolize&color=%2342b883&size=23&center=true&lines=Backend+Developer;Always+learning+new+things;Always+open+to+collaborate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Electrolize&size=23&pause=1000&color=42b983&vCenter=true&width=500&lines=Backend+Developer;Tech+Enthusiast;Always+Learning+New+Things;Always+Open+To+Collaborate)](https://git.io/typing-svg)
 
 ## 👋 About Me
 
@@ -75,7 +75,7 @@ I'm a passionate **Backend Developer** with a love for building scalable and eff
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravmsh&langs_count=8&layout=compact&theme=vue&hide_border=true&title_color=409ba5&icon_color=F8D866" alt="Most Used Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravmsh&langs_count=8&layout=compact&theme=vue&hide_border=true&title_color=42b883&icon_color=42b883" alt="Most Used Languages"/>
     </td>
     <td width="50%">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=souravmsh&theme=vue" alt="Languages By a Repo"/>
